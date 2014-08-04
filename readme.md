@@ -1,3 +1,3 @@
 Hello, world! 
 
-This is the README file with my edits from example number 2.. 
+This is the readme file edits from example 1!
